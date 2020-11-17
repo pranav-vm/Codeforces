@@ -1,3 +1,3 @@
 #CODEFORCES
 
-This is my repository of succesfully ran codes on Codeforces.
+This is my repository of codeforces codes.
